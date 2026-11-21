@@ -1,3 +1,5 @@
+Status: side project. The hosted demo is offline while the backend is paused; the code is here to read.
+
 # Common Room
 
 Common Room is a lightweight shared planner for a small friend/residence group. It combines activity ideas, contextual polls, availability, a calendar planner, RSVP, shareable deep links, offline-friendly sync, reminders, and calendar export without turning into a heavy project-management app.
